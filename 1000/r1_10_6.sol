@@ -1,7 +1,7 @@
 Instance name :	r1_10_6
-Authors       :	Seiya Takahashi, Masahiro Nomura, Isao Ono
+Authors       :	Seiya Takahashi, Tsubasa Kumamoto, Ryotaro Shin, Masahiro Nomura, Isao Ono
 Date          : 17-08-2026
-Reference     :	Seiya Takahashi (takahashi.s@ic.comp.isct.ac.jp), Masahiro Nomura, Isao Ono, "Evolutionary Computation for the Vehicle Routing Problem with Time Windows Considering Edge Diversity", Master's thesis, Institute of Science Tokyo, 2026.
+Reference     :	Seiya Takahashi (takahashi.s@ic.comp.isct.ac.jp), Tsubasa Kumamoto, Ryotaro Shin, Masahiro Nomura, Isao Ono, "Evolutionary Computation for the Vehicle Routing Problem with Time Windows Considering Edge Diversity", Master's thesis, Institute of Science Tokyo, 2026.
 Solution
 Route 1 : 14 675 303 10 362 805 761 513 260 632
 Route 2 : 26 363 754 593 190 717 843 571 32 769
